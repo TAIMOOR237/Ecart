@@ -14,47 +14,47 @@ return new class extends SettingsMigration {
             [
                 'name' => 'Facebook',
                 'url' => '',
-                'url_placeholder' => 'https://facebook.com/cartify',
+                'url_placeholder' => 'https://facebook.com/Ecart',
             ],
             [
                 'name' => 'Twitter',
                 'url' => '',
-                'url_placeholder' => 'https://twitter.com/cartify',
+                'url_placeholder' => 'https://twitter.com/Ecart',
             ],
             [
                 'name' => 'Pinterest',
                 'url' => '',
-                'url_placeholder' => 'https://pinterest.com/cartify',
+                'url_placeholder' => 'https://pinterest.com/Ecart',
             ],
             [
                 'name' => 'Instagram',
                 'url' => '',
-                'url_placeholder' => 'https://instagram.com/cartify',
+                'url_placeholder' => 'https://instagram.com/Ecart',
             ],
             [
                 'name' => 'TikTok',
                 'url' => '',
-                'url_placeholder' => 'https://tiktok.com/@cartify',
+                'url_placeholder' => 'https://tiktok.com/@Ecart',
             ],
             [
                 'name' => 'Tumblr',
                 'url' => '',
-                'url_placeholder' => 'https://cartify.tumblr.com',
+                'url_placeholder' => 'https://Ecart.tumblr.com',
             ],
             [
                 'name' => 'Snapchat',
                 'url' => '',
-                'url_placeholder' => 'https://snapchat.com/add/cartify',
+                'url_placeholder' => 'https://snapchat.com/add/Ecart',
             ],
             [
                 'name' => 'YouTube',
                 'url' => '',
-                'url_placeholder' => 'https://youtube.com/c/cartify',
+                'url_placeholder' => 'https://youtube.com/c/Ecart',
             ],
             [
                 'name' => 'Vimeo',
                 'url' => '',
-                'url_placeholder' => 'https://vimeo.com/cartify',
+                'url_placeholder' => 'https://vimeo.com/Ecart',
             ],
         ]);
     }

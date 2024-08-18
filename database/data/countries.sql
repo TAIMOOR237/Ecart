@@ -3,7 +3,7 @@
 --
 -- https://tableplus.com/
 --
--- Database: cartify_v2_dev
+-- Database: Ecart_v2_dev
 -- Generation Time: 2022-12-01 14:26:40.5240
 -- -------------------------------------------------------------
 

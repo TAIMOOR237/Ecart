@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "cartify",
+    "name": "Ecart",
     "scripts": {
         "dev": "vite",
         "build": "vite build"

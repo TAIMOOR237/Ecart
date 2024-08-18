@@ -1,5 +1,5 @@
 {
-    "name": "novaboltlabs/cartify",
+    "name": "labs/Ecart",
     "type": "project",
     "description": "Laravel ecommerce platform",
     "keywords": [
@@ -7,7 +7,7 @@
         "livewire",
         "alpinejs",
         "tailwindcss",
-        "cartify",
+        "Ecart",
         "ecommerce"
     ],
     
